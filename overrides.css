@@ -1,7 +1,0 @@
-/* Targeted responsive QA adjustments */
-.media-grid article { min-width: 0; }
-.media-grid h3 { overflow-wrap: anywhere; }
-@media (max-width: 700px) {
-  .soundwave { font-size: 26px; letter-spacing: 2px; max-width: 100%; overflow: hidden; }
-  .hero { overflow: hidden; }
-}
